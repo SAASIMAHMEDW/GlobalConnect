@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984162226487",
+    "project_id": "globalconnect-1e553",
+    "storage_bucket": "globalconnect-1e553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984162226487:android:97d5f13914ceaa49a94ab2",
+        "android_client_info": {
+          "package_name": "com.example.globalconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiBL6X1VStTNBOyyx5aLWBvfF21z7azjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
